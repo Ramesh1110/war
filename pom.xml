@@ -1,0 +1,7 @@
+<project>
+  ...
+  <artifactId>demoproject</artifactId>
+  <packaging>war</packaging>
+  <name>Demo Project</name>
+  ...
+</project>
