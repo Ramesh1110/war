@@ -1,7 +1,9 @@
 <project>
   ...
+  <groupId>com.example.projects</groupId>
   <artifactId>demoproject</artifactId>
   <packaging>war</packaging>
+  <version>1.0</version>
   <name>Demo Project</name>
   ...
 </project>
